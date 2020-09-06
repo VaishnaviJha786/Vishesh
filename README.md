@@ -8,7 +8,7 @@ This is a 'Mobile Application Development' project using the following technolog
 
 ## Project's Overview
 
-_**Theme-Name**_ :   Empowering Differently Abled
+_**Theme-Name**_ :   Education
 
 _**Application-Type**_ :   Hybrid Application
 
