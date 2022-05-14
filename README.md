@@ -2,8 +2,7 @@
 
 This is a 'Mobile Application Development' project using the following technologies:
 - [React](https://facebook.github.io/react/) and [React-Native](https://reactnative.dev/) for the frontend
-- [Express](http://expressjs.com/) and [Mongoose](http://mongoosejs.com/) for the backend
-- [MongoDB](https://www.mongodb.com/cloud/atlas) as our Database
+- [Firebase](https://firebase.google.com/) as our backend and database
 
 
 ## Project's Overview
@@ -12,7 +11,7 @@ _**Theme-Name**_ :   Education
 
 _**Application-Type**_ :   Hybrid Application
 
-_**Tech-Stack-Used**_ :   Node.js, React-Native, MongoDB
+_**Tech-Stack-Used**_ :   Node.js, React-Native, Firebase
 
 _**GitHub-Link**_ :  https://github.com/VaishnaviJha786/Vishesh 
 
